@@ -1,7 +1,7 @@
 
 
 # Mining Twitter to explore side effects after COVID vaccine
-Data Minig Project to answer questions about COVID vaccine side effects
+Data Mining Project to answer questions about COVID vaccine side effects
 
 ### Table of Contents
 
