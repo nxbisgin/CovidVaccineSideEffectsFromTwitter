@@ -22,7 +22,7 @@ Import libraries: nltk, pandas, preprocessor, re, itertools, collections, matplo
 
 ## Summary of Results
 
-The percentages of each side effect is found in the analysis. The results can be found in detail here.
+The percentages of each side effect is found in the analysis. The results can be found in detail here: https://medium.com/@neslihanbisgin/mining-twitter-to-explore-the-odds-of-having-side-effects-after-covid-vaccine-4c3f0f35392c
 
 ## Necessary Acknowledgements
 
