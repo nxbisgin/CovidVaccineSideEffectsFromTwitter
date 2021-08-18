@@ -1,12 +1,22 @@
-https://medium.com/@neslihanbisgin/mining-twitter-to-explore-the-odds-of-having-side-effects-after-covid-vaccine-4c3f0f35392c
 
-Mining Twitter to explore the odds of having side effects after COVID vaccine
 
-According to CDC, you may have some side effects after getting a COVID-19 vaccination such as pain, redness, swelling on the arm and tiredness, headache, muscle pain, chills, fever and nausea throughout the rest of your body. Before taking the COVID shot, I was wondering how likely am I to experience these side effects, or which ones I will have. On the other hand, some people have no side effects. How likely am I to be one of those lucky people? I asked my friends who took the shot before me but I realized I needed more data, so I turned to Twitter.
+# Mining Twitter to explore side effects after COVID vaccine
+Data Minig Project to answer questions about COVID vaccine side effects
 
-Possible side effects after COVID vaccine.
-Social media data can produce rich and useful insights in both scale and extent. With people sharing their vaccine experience in real time, Twitter was the perfect source of data for me.
-Sample of tweets that were collected.
+### Table of Contents
+
+1. [Motivation for the Project](#motiv)
+2. [Libraries Used](#lib)
+3. [Files in the Repository](#files)
+4. [summary of the Results of the Analysis](#summary)
+5. [Necessary Acknowledgements](#acknow)
+
+
+## Motivation for the Project
+
+According to CDC, you may have some side effects after getting a COVID-19 vaccination such as pain, redness, swelling on the arm and tiredness, headache, muscle pain, chills, fever and nausea throughout the rest of your body. In this project, I am using Twitter data to find how common or rare are the side effects after the vaccine as shared by Twitter users.
+
+## Technologies
 With a quick search, I found a dataset already available on Kaggle related to vaccine tweets so I decided to use it to answer my questions. The data was collected using Tweepy Python package to access Twitter API and most frequently used terms to refer to the vaccines were used for collection. The tweets date back to 12/31/2020 and it is frequently updated to add more recent tweets. For more details about the dataset, you can visit the link here.
 Here is a quick summary of my research questions:
 1. What is the possibility that your shot is largely uneventful?
